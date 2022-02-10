@@ -125,4 +125,4 @@ async function read_data(file) {
     show_movie();
     set_year(y);
 }
-read_data("https://github.com/mehrangholizade/JSON-File/blob/main/moviedata.json");
+read_data("https://raw.githubusercontent.com/mehrangholizade/Assignment-18/main/moviedata.json");
